@@ -7,13 +7,6 @@
 
     <AgricultureSolutions />
     <AgriProcess />
-    <AgriProduct />
-    <AgriBenefits />
-
-    <AquacultureSolutions />
-    <AquaProcess />
-    <AquaProduct />
-    <AquaBenefits />
 
     <FooterTwo />
   </div>
@@ -44,22 +37,13 @@ export default {
     SliderThree,
     AboutUs,
     OurModel,
-
     AgricultureSolutions,
-    AgriProcess,
-    AgriProduct,
-    AgriBenefits,
-
-    AquacultureSolutions,
-    AquaProcess,
-    AquaProduct,
-    AquaBenefits,
-
+	  AgriProcess,
     FooterTwo,
   },
   head(){
     return {
-      title: "Biomanila  - Home"
+      title: "Ten Eighteen LLC  - Home"
     }
   }
 }

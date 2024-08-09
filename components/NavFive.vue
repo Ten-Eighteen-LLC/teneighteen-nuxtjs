@@ -5,7 +5,7 @@
         <div class="topbar_three_content clearfix">
           <div class="logo-box-three logo-box-five float-left">
             <a href="/" class="main-nag__logo">
-              <img src="/assets/images/logo.png" alt="Biomanila | Eco Farm Solutions">
+              <img src="/assets/images/logo.png" alt="Ten Eighteen LLC" style="width: 250px;">
             </a>
           </div>
 
@@ -25,9 +25,6 @@
                         <a :href="nav.elementId" v-scroll-to="nav.elementId">
                           {{ nav.description }}
                         </a>
-                      </li>
-                      <li class="dropdown">
-                        <a href="mailto:admin@biomanila.com">Contact</a>
                       </li>
                     </ul>
 
@@ -52,9 +49,6 @@
             {{ nav.description }}
           </a>
         </li>
-        <li class="dropdown">
-          <a href="mailto:admin@biomanila.com">Contact</a>
-        </li>
       </ul>
     </nav>
   </div>
@@ -68,10 +62,6 @@
         sticky: false,
         mobileToggle: false,
         navigations: [
-          { description: 'About Us',  elementId: '#about'  },
-          { description: 'Agriculture Solutions',  elementId: '#agri'  },
-          { description: 'Aquaculture Solutions', elementId: '#aqua' },
-          { description: 'What\'s New', elementId: '#news' }
         ],
       }
     },

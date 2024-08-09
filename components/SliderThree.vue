@@ -13,7 +13,8 @@
             <div class="content">
               <div class="inner">
                 <div class="big_text">
-                  <h2>Imagine a world with affordable, nutritious food for all.</h2>
+                  <h2>Committed to sourcing and
+	                  delivering high-quality products</h2>
                 </div>
               </div>
             </div>
@@ -29,7 +30,8 @@
             <div class="content">
               <div class="inner">
                 <div class="big_text">
-                  <h2>Ponder a future where affordable, nutrient-dense food is available to everyone</h2>
+                  <h2>A dynamic player in the agricultural and food
+	                  commodities trading sector</h2>
                 </div>
               </div>
             </div>

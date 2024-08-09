@@ -1,4 +1,4 @@
-# biomanila-nuxtjs
+# teneighteen-nuxtjs
 
 ## Build Setup
 

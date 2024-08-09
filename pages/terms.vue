@@ -11,12 +11,14 @@
           <div class="bg-white col-md-8 p-4 shadow-sm text-left">
             <div class="sqs-block-content mobile text-justify">
               <p>The information data and material ("Information") contained in this
-                website ("website") has been prepared solely for the purpose of providing information about Biomanila Inc
-                ("Biomanila Inc" / "we" / "us"), its subsidiaries and partners and the services that they offer.
+                website ("website") has been prepared solely for the purpose of providing information about Ten Eighteen LLC Inc
+                ("Ten Eighteen LLC Inc" / "we" / "us"), its subsidiaries and partners and the services that they offer.
               </p>
 
               <p>By accessing this website we assume you accept these terms and conditions
-                in full. Do not continue to use Biomanila Inc's website if you do not accept all of the terms and conditions stated
+                in full. Do not continue to use Ten Eighteen LLC Inc's website if you do not accept all of the terms and
+	              conditions
+	              stated
                 on this page.
               </p>
 
@@ -37,8 +39,9 @@
               <ul>
                 <li><p><strong>Cookies </strong></p></li>
               </ul>
-              <p style="margin-left:12px;">We employ the use of cookies. By using Biomanila Inc's website you
-                consent to the use of cookies in accordance with Biomanila Inc's privacy policy. Most of the modern day interactive
+              <p style="margin-left:12px;">We employ the use of cookies. By using Ten Eighteen LLC Inc's website you
+                consent to the use of cookies in accordance with Ten Eighteen LLC Inc's privacy policy. Most of the modern day
+	              interactive
                 web sites use cookies to enable us to retrieve user details for each visit. Cookies are used in some areas
                 of our site to enable the functionality of this area and ease of use for those people visiting. Some of
                 our affiliate / advertising partners may also use cookies.
@@ -48,17 +51,20 @@
               <ul>
                 <li><p><strong>License</strong> </p></li>
               </ul>
-              <p style="margin-left:12px;">Unless otherwise stated, Biomanila Inc and/or its licensor own the
-                intellectual property rights for all material on Biomanila Inc. All intellectual property rights are reserved. You
-                may view and/or print pages from www.Biomanila.com for your own personal use subject to
+              <p style="margin-left:12px;">Unless otherwise stated, Ten Eighteen LLC Inc and/or its licensor own the
+                intellectual property rights for all material on Ten Eighteen LLC Inc. All intellectual property rights are
+	              reserved.
+	              You
+                may view and/or print pages from www.Ten Eighteen LLC.com for your own personal use subject to
                 restrictions set in these terms and conditions.</p>
               <p style="margin-left:12px;">You must not:
               </p>
-              <p style="margin-left:40px;">Republish material from www.Biomanila.com
+              <p style="margin-left:40px;">Republish material from www.teneighteen.biz
               </p>
-              <p style="margin-left:40px;">Sell, rent or sub-license material from www.Biomanila.com </p>
-              <p style="margin-left:40px;">Reproduce, duplicate or copy material from www.Biomanila.com </p>
-              <p style="margin-left:40px;">Redistribute content from Biomanila Inc (unless content is specifically made for redistribution). </p>
+              <p style="margin-left:40px;">Sell, rent or sub-license material from www.teneighteen.biz </p>
+              <p style="margin-left:40px;">Reproduce, duplicate or copy material from www.teneighteen.biz </p>
+              <p style="margin-left:40px;">Redistribute content from Ten Eighteen LLC Inc (unless content is specifically made for
+	              redistribution). </p>
 
               <br>
               <ul>
@@ -104,7 +110,7 @@
                 site. </p>
               <p style="margin-left:12px;">If you are among the organizations listed in paragraph 2
                 above and are interested in linking to our website, you must notify us by sending an e-mail to
-                admin@biomanila.com. </p>
+                info@teneighteen.biz. </p>
               <p style="margin-left:12px;">Please include your name, your organization name, contact
                 information (such as a phone number and/or e-mail address) as well as the URL of your site, a list of any
                 URLs from which you intend to link to our Web site, and a list of the URL(s) on our site to which you
@@ -120,7 +126,7 @@
                 material
                 being linked to that makes sense within the context and format of content on the linking party's site.
               </p>
-              <p style="margin-left:12px;">No use of Biomanila Inc's logo or other artwork will be allowed for
+              <p style="margin-left:12px;">No use of Ten Eighteen LLC Inc's logo or other artwork will be allowed for
                 linking absent a trademark license agreement.
               </p>
 
@@ -194,7 +200,7 @@ export default {
   name: 'Terms',
   head(){
     return {
-      title: "Biomanila  - Terms and Conditions"
+      title: "Ten Eighteen LLC  - Terms and Conditions"
     }
   },
   components: {
