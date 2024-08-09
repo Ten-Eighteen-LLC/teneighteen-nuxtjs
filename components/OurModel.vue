@@ -12,7 +12,7 @@
           <div class="company_solutions_single">
             <h2 style="font-size: 25px">
 	            <span>Joel Prashant Jack</span>
-	            <span>Partner</span>
+	            <span>- Partner</span>
             </h2>
             <p>Joel Prashant Jack holds an MSc in Experimental Biology, a PhD in Zoology in Wetland Ecology, and a postdoctoral
 	            in Estuarine Ecology. He has more than 30 years of international teaching and research experience
@@ -36,7 +36,7 @@
           <div class="company_solutions_single">
 	          <h2 style="font-size: 25px">
 		          <span>Rich Cabael</span>
-		          <span>Partner</span>
+		          <span>- Partner</span>
 	          </h2>
             <p>Rich has over 25 years of experience as an entrepreneur from founding his own start-ups, working in mid-size
 	            and Fortune 500 companies, and collaborating with partners from around the globe. After earning his BS
@@ -61,7 +61,7 @@
           <div class="company_solutions_single">
 	          <h2 style="font-size: 25px">
 		          <span>Pierre Brunache</span>
-		          <span>Head of Commodity Trading - Africa</span>
+		          <span>- Head of Commodity Trading - Africa</span>
 	          </h2>
             <p>An agribusiness consultant with an MBA and over 20 years of experience, Pierre has developed and managed
 	            complex agribusiness ecosystems for SMEs in more than 25 African and Caribbean countries. With his strong
