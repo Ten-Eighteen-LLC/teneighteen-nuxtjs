@@ -41,7 +41,7 @@ font-family: 'Amatic SC', cursive;*/
 
 :root {
   --thm-font: "Barlow", sans-serif;
-  --heading-font: "Times new roman";
+  --heading-font: "Arial";
   --thm-base: white;
   --thm-base-rgb: 237, 221, 94;
   --thm-primary: #3F3E3E;
@@ -2888,7 +2888,7 @@ h6 {
 
 .about1_icon-box {
   position: absolute;
-  top: 50%;
+  top: 92%;
   left: -60px;
   transform: translateY(-57.5px);
 }
