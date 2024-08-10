@@ -5,7 +5,7 @@
         <div class="topbar_three_content clearfix">
           <div class="logo-box-three logo-box-five float-left">
             <a href="/" class="main-nag__logo">
-              <img src="/assets/images/logo.png" alt="Ten Eighteen LLC" style="width: 250px;">
+              <img src="/assets/images/logo.png" alt="Ten Eighteen LLC" style="width: 400px; padding: 0 50px">
             </a>
           </div>
 
